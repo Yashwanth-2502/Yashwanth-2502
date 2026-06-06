@@ -130,18 +130,127 @@ Show Image
 
 🚀 Featured Projects
 <div align="center">
-ProjectStackHighlights🤖 AI Resume CheckerPython · NLP · Scikit-learn · TF-IDFAI-powered resume evaluation with text preprocessing, feature extraction & classification for precise scoring📰 Fake News DetectionPython · ML · Passive Aggressive · Logistic RegressionMulti-model classifier using TF-IDF vectorisation & NLP preprocessing for reliable article classification📊 Job Market Analytics DashboardPower BI · ETL · Data CleaningInteractive BI dashboard visualising job trends, skill demand, and salary distribution — improved reporting efficiency by 20%👁️ AI-Reality TranslatorPython · Computer Vision · OpenCVReal-time object identification & translation with lag-free overlay graphics, even in low-light/crowded environments✋ Hand Gesture DetectorPython · MediaPipe · OpenCVCamera-based gesture recognition (fist, palm, signs) for touch-free device control, optimised for standard webcams🏠 House Price PredictionPython · Scikit-learn · Pandas · EDAML model estimating market value from housing features; full data cleaning pipeline for reliable predictions🎭 AI Mood Movie RecommenderPython · NLP · MLNLP-driven recommendation engine suggesting movies by analysing user text input and preference patterns
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Stack</th>
+      <th>Highlights</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🤖 <b><a href="https://github.com/yashwanth-s">AI Resume Checker</a></b></td>
+      <td>Python · NLP · Scikit-learn · TF-IDF</td>
+      <td>AI-powered resume evaluation with text preprocessing, feature extraction &amp; classification for precise scoring</td>
+    </tr>
+    <tr>
+      <td>📰 <b><a href="https://github.com/yashwanth-s">Fake News Detection</a></b></td>
+      <td>Python · ML · Passive Aggressive · Logistic Regression</td>
+      <td>Multi-model classifier using TF-IDF vectorisation &amp; NLP preprocessing for reliable article classification</td>
+    </tr>
+    <tr>
+      <td>📊 <b><a href="https://github.com/yashwanth-s">Job Market Analytics Dashboard</a></b></td>
+      <td>Power BI · ETL · Data Cleaning</td>
+      <td>Interactive BI dashboard visualising job trends, skill demand &amp; salary distribution — improved efficiency by 20%</td>
+    </tr>
+    <tr>
+      <td>👁️ <b><a href="https://github.com/yashwanth-s">AI-Reality Translator</a></b></td>
+      <td>Python · Computer Vision · OpenCV</td>
+      <td>Real-time object identification &amp; translation with lag-free overlay graphics, even in low-light environments</td>
+    </tr>
+    <tr>
+      <td>✋ <b><a href="https://github.com/yashwanth-s">Hand Gesture Detector</a></b></td>
+      <td>Python · MediaPipe · OpenCV</td>
+      <td>Camera-based gesture recognition (fist, palm, signs) for touch-free device control on standard webcams</td>
+    </tr>
+    <tr>
+      <td>🏠 <b><a href="https://github.com/yashwanth-s">House Price Prediction</a></b></td>
+      <td>Python · Scikit-learn · Pandas · EDA</td>
+      <td>ML model estimating market value from housing features; full data cleaning pipeline for reliable predictions</td>
+    </tr>
+    <tr>
+      <td>🎭 <b><a href="https://github.com/yashwanth-s">AI Mood Movie Recommender</a></b></td>
+      <td>Python · NLP · ML</td>
+      <td>NLP-driven recommendation engine suggesting movies by analysing user text input and preference patterns</td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
 🏅 Achievements
 <div align="center">
-🏆AchievementDetails📖India Book of World RecordsRecognised for a continuous 3-hour Karate Kata demonstration — exceptional endurance, discipline & mastery🥋Black Belt in KarateAdvanced technical proficiency, commitment, and strong mental focus🎓CGPA 9.6 / 10.0BCA Data Science @ SRM University — achieved a perfect 10.0 CGPA in one semester📜ADJP CertificationAdvanced Diploma in Java Programming — CSC Institute (Aug 2024)🍃MongoDB Basics CertifiedMongoDB for Students — MongoDB University (Aug 2025)☁️Azure DP-100 (Planned)Microsoft Certified: Azure Data Science Associate — in progress
+<table>
+  <thead>
+    <tr>
+      <th>🏆</th>
+      <th>Achievement</th>
+      <th>Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>📖</td>
+      <td><b>India Book of World Records</b></td>
+      <td>Recognised for a continuous <b>3-hour Karate Kata</b> demonstration — exceptional endurance, discipline &amp; mastery</td>
+    </tr>
+    <tr>
+      <td>🥋</td>
+      <td><b>Black Belt in Karate</b></td>
+      <td>Advanced technical proficiency, commitment, and strong mental focus</td>
+    </tr>
+    <tr>
+      <td>🎓</td>
+      <td><b>CGPA 9.6 / 10.0</b></td>
+      <td>BCA Data Science @ SRM University — achieved a <b>perfect 10.0 CGPA</b> in one semester</td>
+    </tr>
+    <tr>
+      <td>📜</td>
+      <td><b>ADJP Certification</b></td>
+      <td>Advanced Diploma in Java Programming — CSC Institute (Aug 2024)</td>
+    </tr>
+    <tr>
+      <td>🍃</td>
+      <td><b>MongoDB Basics Certified</b></td>
+      <td>MongoDB for Students — MongoDB University (Aug 2025)</td>
+    </tr>
+    <tr>
+      <td>☁️</td>
+      <td><b>Azure DP-100</b> <i>(Planned)</i></td>
+      <td>Microsoft Certified: Azure Data Science Associate — in progress</td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
 🎓 Education
 <div align="center">
-DegreeInstitutionYearScore🎓 BCA (Data Science)SRM Institute of Science and Technology, Chennai2026CGPA 9.6 (10.0 in one sem)📚 XII — State BoardSri Ahobila Math Oriental Hr Sec School, Chennai2023535/600 (89%)
+<table>
+  <thead>
+    <tr>
+      <th>Degree</th>
+      <th>Institution</th>
+      <th>Year</th>
+      <th>Score</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🎓 BCA (Data Science)</td>
+      <td>SRM Institute of Science and Technology, Chennai</td>
+      <td align="center">2026</td>
+      <td align="center">CGPA 9.6 (10.0 in one sem)</td>
+    </tr>
+    <tr>
+      <td>📚 XII — State Board</td>
+      <td>Sri Ahobila Math Oriental Hr Sec School, Chennai</td>
+      <td align="center">2023</td>
+      <td align="center">535/600 (89%)</td>
+    </tr>
+  </tbody>
+</table>
 </div>
+
 
 🧠 Currently Learning
 🤖  Azure ML        →  DP-100 Exam Prep · Azure ML Studio · AutoML
