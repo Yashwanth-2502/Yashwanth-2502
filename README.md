@@ -111,9 +111,6 @@ Show Image
 <summary><b>🏢 Inspire Softech Solutions — Data Science Intern &nbsp;|&nbsp; May 2025 – Jun 2025 &nbsp;|&nbsp; Chennai, TN</b></summary>
 <br/>
 
-Stack: Show Image Show Image Show Image Show Image
-
-
 📊 Built an interactive Job Market Analytics Dashboard in Power BI, visualising job trends, skill demand, salary variations, and city-wise availability across India.
 🗂️ Collected, cleaned, and processed large multi-source datasets, improving data accuracy and analysis reliability.
 ⚙️ Automated report generation & data refresh pipelines, reducing manual reporting effort and improving efficiency by 20%.
@@ -123,9 +120,6 @@ Stack: Show Image Show Image Show Image Show Image
 <details>
 <summary><b>🏢 VBC Developers — MERN Stack Developer Intern &nbsp;|&nbsp; May 2024 – Jul 2024 &nbsp;|&nbsp; Chennai, TN</b></summary>
 <br/>
-
-Stack: Show Image Show Image Show Image Show Image
-
 
 🎨 Built and implemented responsive UIs for a Zomato frontend clone using React.js, enhancing user experience and engagement.
 🔗 Integrated RESTful APIs with Node.js & Express to manage backend services and data flow.
@@ -161,10 +155,8 @@ English — Professional   Tamil — Native   Telugu — Native   Hindi — I
 
 <div align="center">
 📬 Connect with me
-Show Image
-Show Image
-Show Image
-Show Image
+mail: yashw965@gmail.com
+contact: +91 6380003650
 <br/>
 Show Image
 </div>
