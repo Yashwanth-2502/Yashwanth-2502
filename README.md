@@ -155,9 +155,10 @@ English — Professional   Tamil — Native   Telugu — Native   Hindi — I
 
 <div align="center">
 📬 Connect with me
+  <br/>
 mail: yashw965@gmail.com
+  <br/>
 contact: +91 6380003650
 <br/>
-Show Image
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
