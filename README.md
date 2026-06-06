@@ -156,7 +156,7 @@ English — Professional   Tamil — Native   Telugu — Native   Hindi — I
 <div align="center">
 📬 Connect with me
   <br/>
-mail: yashw965@gmail.com
+Mail: <a href="yashw965@gmail.com"> <a/>
   <br/>
 contact: +91 6380003650
 <br/>
